@@ -1,0 +1,27 @@
+body {
+    background: white url("images/img_shade.png") no-repeat;
+    background-size: 100% 100%;
+    color:white;
+}
+
+label, input {
+        display: block;
+
+}
+
+span.helptext {
+        display: none;
+
+}
+
+.container{
+    padding: 20px;
+    margin : 5px 0 20px 0;
+
+}
+
+a{
+color:white;
+}
+
+
